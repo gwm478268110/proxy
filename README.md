@@ -11,8 +11,8 @@ https://cdn.jsdelivr.net/gh/（帐号）/（仓库）/（位置)
 
 # 代理
 - 订阅
-  * [01](https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/01(%E8%AE%A2%E9%98%85).txt)
-  * 01：https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/01(%E8%AE%A2%E9%98%85).txt
+  * [01](https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/01DY.txt)
+  * 01：https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/01DY.txt
 - TG代理
 > https://github.com/air2006/proxy/blob/master/TG%E4%BB%A3%E7%90%86.txt
 
