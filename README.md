@@ -24,8 +24,8 @@ https://cdn.jsdelivr.net/gh/（帐号）/（仓库）/（位置)
 
 
 ## 推荐机场(可看2K)
-
-
+邀请链接：[v2.freeok.xyz](https://v2.freeok.xyz/auth/register?code=bYat)
+https://v2.freeok.xyz/auth/register?code=bYat
 
 #### 白嫖方法：用我的链接注册（不需要验证邮箱），可以获得0.99元，买3天白嫖，邀请别人注册，可获5元（可以自己邀请自己，可以无限邀请自己）
 
