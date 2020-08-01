@@ -1,4 +1,6 @@
 ### 更新 
+- 8.1
+>增加订阅节点，删去无法使用的节点
 - 7.22 
 > 增加TG代理
 >
@@ -12,7 +14,7 @@
 最近忙，更新次数将减少
 
 ## CDN加速
-https://cdn.jsdelivr.net/gh/（帐号）/（仓库）/（位置)
+cdn.jsdelivr.net/gh/
 
 
 # 代理
@@ -24,8 +26,8 @@ https://cdn.jsdelivr.net/gh/（帐号）/（仓库）/（位置)
 
 
 ## 推荐机场(可看2K)
-邀请链接：[v2.freeok.xyz](https://v2.freeok.xyz/auth/register?code=bYat)
-https://v2.freeok.xyz/auth/register?code=bYat
+邀请链接：
+
 
 #### 白嫖方法：用我的链接注册（不需要验证邮箱），可以获得0.99元，买3天白嫖，邀请别人注册，可获5元（可以自己邀请自己，可以无限邀请自己）
 
