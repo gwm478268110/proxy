@@ -4,3 +4,11 @@ https://t.me/proxy?server=18.183.14.72&port=443&secret=ee47e871f9f8b0253daf20c2d
 https://t.me/proxy?server=52.175.12.216&port=443&secret=ee65e12141b52c59b9fe2de7b630243f51617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.56.87.64&port=20033&secret=eed0cb7557ffd5d0fc0c8f88e8519b3eb373332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=hk3.rockets.cool&port=443&secret=ee9888933806c552d5d613afae9c90f2a2617a7572652e6d6963726f736f66742e636f6d
+
+
+8.3
+
+https://t.me/proxy?server=8.210.128.132&port=443&secret=ee6e5bbc8707d5cf2d7f411c9b44ee8d79617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=52.175.12.216&port=443&secret=ee65e12141b52c59b9fe2de7b630243f51617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.56.87.64&port=20033&secret=eed0cb7557ffd5d0fc0c8f88e8519b3eb373332e616d617a6f6e6177732e636f6d
+https://t.me/proxy?server=13.76.43.181&port=443&secret=ee5d4fe78a4fa0072b8b30d21cd02de9ad617a7572652e6d6963726f736f66742e636f6d
