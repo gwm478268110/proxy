@@ -16,6 +16,13 @@
 - 7.19
 > 更新订阅
 
+# 应用
+- TROJAN
+ * Trojan-Qt5
+ 链接：https://cloud.disroot.org/s/kmcoQTeNeeoRWLa
+ * v2rayN-win-with-trojan
+ 链接：https://cloud.disroot.org/s/btEKBoMMYbPDqGK
+
 
 # 代理
 - torjan
