@@ -1,6 +1,6 @@
 ### 更新 
 - 8.7
->增加TRO节点（已满5人）
+> 增加TROJAN节点（已满5人）
 - 8.5
 > 增加大量V2ray节点
 - 8.3
@@ -18,7 +18,9 @@
 
 
 # 代理
-- 订阅
+- torjan
+> [torjan节点]（https://github.com/air2006/proxy/blob/master/tor.md）
+- V2ray
   * [01](https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/01DY.txt)
   * 01：https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/01DY.txt
 - TG代理
