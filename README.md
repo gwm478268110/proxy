@@ -19,7 +19,7 @@
 
 # 代理
 - torjan
-> [torjan节点]（https://github.com/air2006/proxy/blob/master/tor.md）
+> [torjan节点](https://github.com/air2006/proxy/blob/master/tor.md)
 - V2ray
   * [01](https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/01DY.txt)
   * 01：https://cdn.jsdelivr.net/gh/air2006/V2RAY-SS/01DY.txt
