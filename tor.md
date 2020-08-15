@@ -12,4 +12,4 @@
 |7|usgg254.wwtta1.com|443|n4UUZW|美国 Netflix HBO Hulu(流媒体)|解锁Netflix等，推荐看视频|
 |8|usk3202.wwtta1.com|443|n4UUZW|美国 直连海外|普通直连，不推荐|
 |9|jph9pd.wwap1.com|12009|n4UUZW|日本 上海中转优化|高速节点，较推荐（1.0）|
-|10||||||
+|10|**?**|443|n4UUZW|台湾 家宽 Netflix 动画疯|原生节点，推荐|
